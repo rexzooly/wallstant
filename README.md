@@ -18,8 +18,3 @@ for more information about this open source PHP social network script : <br>
 	<li>Enjoy it.</li>
 </ol>
 <hr>
-
-## Contact me
-[Instagram](https://instagram.com/munafio) <br>
-[Facebook](https://facebook.com/munafio) <br>
-[Twitter](https://twitter.com/munaf_aqeel_m) <br>
